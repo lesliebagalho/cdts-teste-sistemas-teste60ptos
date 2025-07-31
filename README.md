@@ -11,6 +11,8 @@
 3- Criar o arquivo componente CadastroGeral.jsx
 4- Copiar o conteúdo ou fazer download do arquivo que está salvo neste repositório
 5- Corrigir o arquivo CadastroGeral.jsx para que o formulário fique visível e assim conseguir executar o roteiro.
+<img width="165" height="106" alt="image" src="https://github.com/user-attachments/assets/4fdd8b47-4729-4ac8-a56f-9501cc45f69b" />
+  - Atenção: Não precisa estilizar
 6- Para efetuar validação conforme Roteiro de Testes salvo no drive material compartilhado, fazer o download para o seu computador
 7- Salvar o arquivo da seguinte forma:
   - Nome-Data (Ex: Leslie-31-07-2025)
